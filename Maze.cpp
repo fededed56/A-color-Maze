@@ -109,6 +109,7 @@ void D() {
 		exit(0);
 	}
 }
+
 bool Welcome()
 {
 	cout<<"                                                           This is a Maze."<<endl;
@@ -185,4 +186,5 @@ int main() {
 				exit(0);
 		}
 	}
+	return 0;
 }
